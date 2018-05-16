@@ -1,0 +1,135 @@
+
+
+
+
+
+#table2{
+    
+   width:70.5%;
+      height: 25px; 
+   
+   
+     margin-top: 175px;
+    margin-left: 230px;
+}
+#qu2{
+    
+    float: left;
+    margin-left: -10;
+border: solid 1px;
+    border-color: gainsboro;
+    width:95%;
+      height: 300px; 
+   margin-top: 0px;
+    
+    
+    
+}
+#qu3{
+    text-align: center;
+}
+
+
+#q44{
+    width: 94%;
+    height: 82%;
+    margin-left: 3%;
+margin-top: -2%;
+    vertical-align: bottom;
+    text-align: center;
+   background-image:url(Captureletter.PNG);
+    
+    
+}
+
+
+
+
+#q4{
+    text-align: center;
+width: 55%;
+    height: 25px;
+    margin-left:23%;
+margin-top: -45%;
+    border:solid 1px;
+    border-color:black;
+background-color: white;
+        
+}
+
+
+
+#letter{
+    
+   
+}
+
+#qu5{
+    
+   width:65%;
+      height: 250px;
+    border: solid 1px;
+    border-color: gainsboro;
+    
+        
+}
+#table3{
+    
+     width:100%;
+      height: 250px;
+  float: right;
+    
+    
+}
+
+#text1{
+    
+     direction:rtl;
+    margin-top: -80px;
+    margin-right: 1px;
+   
+    
+}
+#text11{
+
+    width:58px;
+      height: 250px;
+    border: solid 1px;
+    border-color:white;
+    
+}
+#text12{
+    
+    width:31%;
+      height: 250px;
+    border: solid 1px;
+    border-color:white;
+}
+
+#clso{
+    
+   
+
+}
+#text122{
+     
+ vertical-align: top;
+    text-align: center;  
+ margin-top: -1px;   
+}
+#text2{
+    direction: rtl;
+     border:solid 3px;
+    border-color: white;
+    border-top-color: gainsboro;
+  
+
+    font-size: 140%;
+}
+
+#text3{
+    direction: rtl;
+}
+#text4{
+    direction: rtl;
+}

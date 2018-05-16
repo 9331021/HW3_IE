@@ -1,0 +1,257 @@
+
+
+@font-face {
+  font-family: 'Shabnam';
+  src: url('font/Shabnam.eot') format('eot'), /* IE6–8 */ 
+  url('font/Shabnam.woff2') format('woff2'),  /* Chrome36+, Opera24+*/ 
+  url('font/Shabnam.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+*{
+	font-family:"Shabnam";
+	font-size:13px;
+}
+
+
+#tables{
+    width: 76%;
+    height: 30px;
+float: right;
+    margin-right: 150px;
+    margin-top: 10px;
+    
+}
+
+#first_colmn{
+    width: 15%;
+    height: 25%;
+    border: solid 1px;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: 1px 1px 1px #999;
+
+}
+
+#sec_colmn{
+    width: 15%;
+    border: solid 1px;
+    vertical-align: bottom;
+    text-align: center;
+     border-radius:5px;
+    box-shadow: 1px 1px 1px #999;
+}
+#third_colmn{
+    width: 15%;
+       border: solid 1px;
+    vertical-align: bottom;
+    text-align: center;
+     border-radius:5px;
+    box-shadow: 1px 1px 1px #999;
+}
+#forth_colmn{
+    width: 15%;
+       border: solid 1px;
+    vertical-align: bottom;
+    text-align: center; border-radius:5px;
+    box-shadow: 1px 1px 1px #999;
+    
+}
+
+#fifth_colmn{
+    width: 15%;
+       border: solid 1px;
+vertical-align: bottom;
+    text-align: center;
+     border-radius:5px;
+box-shadow: 1px 1px 1px #999;
+}
+
+#sixth_colmn{
+  vertical-align: bottom;
+    text-align: center;
+    width: 15%;
+       border: solid 1px;
+     border-radius:5px;
+box-shadow: 1px 1px 1px #999;
+}
+#tables tr td a {	
+	text-decoration:none;   
+    color:#270000;
+}
+#7colm{
+    width: 15%;
+       border: solid 1px;
+    color: white;
+}
+#l{
+    color: white;
+}
+
+
+#s11{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-commenting{
+    font-size: 45px;
+    margin-top: 1px;
+}
+
+#s11:hover{
+    background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#first_colmn:hover{
+   
+    background-color:rgb(59,85,230);
+}
+
+
+
+
+
+
+
+
+
+#s22{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-envelope{
+    font-size: 45px;
+    margin-top: 1px;
+}
+
+#s22:hover{
+  background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#sec_colmn:hover{
+   background-color:rgb(59,85,230);
+}
+
+
+#s33{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-question{
+    font-size: 45px;
+    margin-top: 1px;
+}
+
+#s33:hover{
+   background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#third_colmn:hover{
+ background-color:rgb(59,85,230);
+}
+
+
+#s44{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-chevron-left{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+#s44:hover{
+    background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#forth_colmn:hover{
+  background-color:rgb(59,85,230);
+}
+#s4{
+    margin-top: 15%;
+    font-size: 13px;
+    font-style:normal
+}
+
+
+#s55{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-user{
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+#s55:hover{
+  background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#fifth_colmn:hover{
+   background-color:rgb(59,85,230);
+}
+
+
+
+#s66{
+    width: 103%;
+     height: 90px;
+    font-size: 15px;
+text-align: center;
+    vertical-align:middle;
+}
+.fa-lock{
+    font-size: 45px;
+    margin-top: 1px;
+}
+
+#s66:hover{
+    background-color:rgb(59,85,230);
+    color: white;
+     border: solid 1px;
+    
+    border-radius: 5px;
+    border-color: blue;
+}
+#sixth_colmn:hover{
+  background-color:rgb(59,85,230);
+}
+
+
+
+
+
+

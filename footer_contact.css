@@ -1,0 +1,327 @@
+
+
+
+#table5{
+    
+   width:99.4%;
+      height: 180px; 
+    position:absolute;
+   
+     margin-top: 1650px;
+    
+    background-color: gainsboro;
+    padding-left: 145px;
+    padding-right: 150px;
+}
+
+
+#foot_1{
+    
+   
+    margin-left: 0;
+
+
+    width:15%;
+      height: 150px; 
+   margin-top: 0px;
+     
+    background-color:gainsboro;
+    border-color:gainsbor;
+        padding-left: 20px;
+    
+    
+    
+}
+#foot_2{
+   
+   
+    width:2%;
+      height: 150px;
+       background-color:gainsboro;
+   
+    
+}
+#foot_3{
+    
+   
+   
+border: solid 5px;
+    border-color: gainsboro;
+    width:4%;
+      height: 150px; 
+   margin-top: 0px;
+       background-color:gainsboro;
+    
+    
+    
+    
+}
+#foot_4{
+   
+   
+       background-color:gainsboro;
+    width:10%;
+      height: 150px;
+   
+    
+}
+
+    
+#foot_11{
+    text-align: right;
+    margin-top: -52px;
+     font-size: 11px;
+    margin-left: 15%;
+    
+        
+    }
+
+
+#foot_40{
+    text-align: center;
+    margin-top: -10px;
+     font-weight: bold;
+   margin-right: 15%;
+    font-size: 12px;
+    
+}
+#foot_41{
+    margin-right: 15%;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 11px;
+     
+}
+#foot_41:hover{
+    color: dodgerblue;
+      font-size: 12px;
+}
+#foot_42{
+    text-align: center;
+    margin-top: 1px;
+    margin-right: 15%;
+    font-size: 11px;
+     
+    
+}
+#foot_42:hover{
+    color: dodgerblue;
+      font-size: 12px;
+}
+
+#foot_43{
+    text-align: center;
+    margin-top: 1px;
+    font-size: 11px;
+    margin-right: 15%;
+     
+    
+}
+#foot_43:hover{
+    color: dodgerblue;
+      font-size: 12px;
+}
+#foot_44{
+    text-align: center;
+    margin-top: 1px;
+    font-size: 11px;
+    margin-right: 15%; 
+    
+}
+#foot_44:hover{
+    color: dodgerblue;
+      font-size: 12px;
+}
+
+#foot_30{
+    text-align: center;
+    
+    margin-top: -40px;
+     font-weight: bold;
+    font-size: 12px;
+    margin-right: -80%;
+      font-size: 12px;
+    
+}
+#foot_31{
+    text-align: center;
+    margin-top: 15px;
+    margin-right: -80%;
+     font-size: 11px;
+    
+    
+}
+#foot_31:hover{
+    color: dodgerblue;
+      font-size: 12px;
+}
+#foot_32{
+    text-align: center;
+    margin-top: 1px;
+    margin-right: -80%;
+    font-size: 11px;
+     
+    
+        
+    }
+#foot_32:hover{
+    color: dodgerblue;
+    font-size: 12px;
+}
+
+
+#foot_20{
+margin-right: -35%;
+    text-align: center;
+    margin-top: 28px;
+     font-weight: bold;
+    font-size: 12px;
+    
+}
+
+#little{
+width: 200px;
+    
+    height: 100px;
+    margin-left:80px;
+    margin-top: 15px;
+}
+
+
+#fa22{
+    
+text-align: center;
+    font-size: 25px; 
+     width: 37px;
+      height: 37px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-top: -20%;
+    
+    
+}
+
+
+.fa-facebook{
+    font-size: 15px; 
+     margin-top: 20%;
+}
+.fa-twitter{
+    font-size: 36px;
+    margin-top: 20%;
+}
+.fa-google-plus{
+ font-size:20px;
+    margin-top: 20%;
+    
+    
+}
+
+#G11{
+    
+ text-align: center;
+    height: 80%;
+   
+    margin-left: 65%;
+     margin-top: 0%;
+    width: 37px;
+      height: 37px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+}
+#G22{
+    margin-left: 65%;
+    height: 80%;
+ text-align: center;
+    margin-top: -20%;
+    width: 37px;
+      height: 37px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    font-size: 20px;
+    
+}
+#tw11{
+    
+ text-align: center;
+   
+ width: 37px;
+      height: 37px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    margin-left: 30%;
+    font-size: 20px;
+    
+
+}
+#tw22{
+    
+ text-align: center;
+    margin-top: -20%;
+   width: 37px;
+      height: 37px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+
+
+
+#fa11{
+  
+ text-align: center;
+    font-size: 25px; 
+     width: 37px;
+      height: 37px;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 5px;
+      border-radius: 25px;
+      background: gray;
+    color: white;
+    margin-left: 100%;
+    
+}
+
+         
+
+#fa11:hover{
+    background-color:rgb(59,85,230);;;
+}
+
+#fa22:hover{
+   background-color:rgb(59,85,230);
+}
+#tw11:hover{
+   background-color:rgb(59,85,230);
+}
+#tw22:hover{
+   background-color:rgb(59,85,230);
+}
+#G11:hover{
+   background-color:rgb(59,85,230);
+}
+#G22:hover{
+  background-color:rgb(59,85,230);
+}

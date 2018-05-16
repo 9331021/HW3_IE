@@ -1,0 +1,88 @@
+
+#text_con{
+    width: 58%;
+    font-size: 16px;
+    float:right;
+    margin-top: 50px;
+    direction: rtl;
+    margin-right: 250px;
+    
+}
+#text_con1{
+    font-size:18px;
+}
+#text_con2{
+    font-size: 18%;
+}
+
+#table7{
+    
+   width:55%;
+      height: 130px; 
+   float: left;
+    top: 150px;
+     margin-top: 20px;
+    margin-left: 350px;
+ border: solid 2px;
+    border-color: white;
+    border-bottom-color: gainsboro;
+    border-top-color: gainsboro;
+    
+}
+#colmn_empyt{
+     width: 140px
+}
+#con{
+    margin-top: -15px;
+    height: 60px;
+     border: solid 2px;
+    border-color: white;
+    border-right-color: gainsboro;
+        
+}
+#contact1{
+    direction: rtl;
+    margin-top: -57px;
+    margin-right: 10px;
+    font-size: 11px;
+    
+   
+}
+#colmn3{
+    width: 120px;
+}
+#colmn4{
+    width: 7%;
+}
+#colmn5{
+    width: 100px;
+}
+#colmn6{
+width: 7%;   
+}
+#fax1{
+    font-size: 11px;
+    direction: rtl;
+    margin-top: -10px;
+}
+#fax2{
+ font-family: b yekan;
+    font-size: 13px;
+    direction: rtl;
+}
+.a5{
+    font-size: 11px;
+     font-weight: bold;
+}
+
+#email1{
+    font-size: 12px;
+    margin-top: -9px;
+   margin-right: -1px;
+    direction: rtl;
+}
+#email2{
+    margin-right: 0px;
+    direction: rtl;
+    font-size: 11px;
+}
